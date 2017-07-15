@@ -1,7 +1,7 @@
 # avalanchesass_utility_font_family
 Font family utility classes.
 
-**ATTENTION:** This package is outdated, you can find the latest release under a new name: https://www.npmjs.com/package/@avalanche/object-grid
+**ATTENTION:** This package is outdated, you can find the latest release under a new name: https://www.npmjs.com/package/@avalanche/utility-font-family
 
 ## Install
 ```
